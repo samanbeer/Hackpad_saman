@@ -1,11 +1,12 @@
-Thanks [HackClub](https://pages.github.com](https://blueprint.hackclub.com/hackpad))
+Thanks [HackClub](https://blueprint.hackclub.com/hackpad)
 
 **Inspiration:**
 
     Saw a lot of similar MacroPads so i made one myself. Planning to make a better new one after I test this one.
+
 **Challenges**
 
-    the biggest chalange was making Case for it in Fusion 360, but I am satisfied about the result. Routing the PCB routes was pretty easy after I understood the logic, it was pretty fun.
+    The biggest challenge was making the Case for it in Fusion 360, but I am satisfied about the result. Routing the PCB routes was pretty easy after I understood the logic, it was pretty fun.
 
 **Seeed XIAO RP2040:**
 
@@ -25,4 +26,8 @@ Images:
 
 | Case          | Schematic     | PCB  |
 | ----------- |:-----------:| --------|
-| ![Case](https://github.com/samanbeer/Hackpad_saman/blob/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/Cad.png "Cad.png") | ![Schematic](https://github.com/samanbeer/Hackpad_saman/blob/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/Schematic.png "Scheamtic.png")| ![Schematic](https://github.com/samanbeer/Hackpad_saman/blob/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/PCB.png "PCB.png") |
+| ![Case](https://github.com/samanbeer/Hackpad_saman/raw/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/Cad.png "Cad.png") | ![Schematic](https://github.com/samanbeer/Hackpad_saman/raw/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/Schematic.png "Schematic.png")| ![PCB](https://github.com/samanbeer/Hackpad_saman/raw/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/PCB.png "PCB.png") |
+
+![PCB+CAD1](https://github.com/samanbeer/Hackpad_saman/raw/main/images/PCB+CAD_1.png "PCB+CAD_1.png")
+![PCB+CAD2](https://github.com/samanbeer/Hackpad_saman/raw/main/images/PCB+CAD_2.png "PCB+CAD_2.png")
+![PCB+CAD3](https://github.com/samanbeer/Hackpad_saman/raw/main/images/PCB+CAD_3.png "PCB+CAD_3.png")
