@@ -1,4 +1,4 @@
-Thanks [HackClub]([https://pages.github.com](https://blueprint.hackclub.com/hackpad))
+Thanks [HackClub](https://pages.github.com](https://blueprint.hackclub.com/hackpad))
 
 **Inspiration:**
 
@@ -24,5 +24,5 @@ BOM:
 Images:
 
 | Case          | Schematic     | PCB  |
-| ------------- |:-------------:| -----:|
+| ----------- |:-----------:| --------|
 | ![Case](https://github.com/samanbeer/Hackpad_saman/blob/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/Cad.png "Cad.png") | ![Schematic](https://github.com/samanbeer/Hackpad_saman/blob/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/Schematic.png "Scheamtic.png")| ![Schematic](https://github.com/samanbeer/Hackpad_saman/blob/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/PCB.png "PCB.png") |
