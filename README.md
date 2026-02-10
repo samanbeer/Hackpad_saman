@@ -27,7 +27,7 @@ Images:
 | ----------- |:-----------:| --------|
 | ![Case](https://github.com/samanbeer/Hackpad_saman/raw/ccea76c40ce18d38aa38b7123238bd334b1dfb14/images/Cad.png "Cad.png") | ![Schematic](https://github.com/samanbeer/Hackpad_saman/blob/ecfb3ea41ef713d37fab989057ed39871bd9898a/images/Schematic.png "Schematic.png")| ![PCB](https://github.com/samanbeer/Hackpad_saman/blob/ecfb3ea41ef713d37fab989057ed39871bd9898a/images/PCB.png "PCB.png") |
 
-![PCB_Fyz](samanbeer/Hackpad_saman/images/PCB_Fyz.jpg "PCB_Fyz.jpg")
+![PCB_Fyz](https://github.com/samanbeer/Hackpad_saman/blob/479f94825c16ca22a0c26d283c27334da63bfc3f/images/PCB_Fyz.jpg "PCB_Fyz.jpg")
 ![PCB+CAD1](https://github.com/samanbeer/Hackpad_saman/blob/ea58844f0047b7c14c8a0ccae9aac0e4ee92db45/images/PCB%2BCAD_1.png "PCB+CAD_1.png")
 ![PCB+CAD2](https://github.com/samanbeer/Hackpad_saman/raw/main/images/PCB+CAD_2.png "PCB+CAD_2.png")
 ![PCB+CAD3](https://github.com/samanbeer/Hackpad_saman/raw/main/images/PCB+CAD_3.png "PCB+CAD_3.png")
